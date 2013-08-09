@@ -20,6 +20,7 @@ This packaged incluyed:
 
 	manifest.json
 	icon.png
+The icon.png is 128x128 pixels.
 
 You can get more information in the next GitHub:
 
