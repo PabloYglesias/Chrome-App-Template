@@ -1,0 +1,16 @@
+{
+    "name": "CHROME APP NAME",
+    "description": "CHROME APP DESCRIPTION",
+    "app": {
+        "urls": ["http://URL/"],
+        "launch": {
+            "web_url": "http://URL/"
+        }
+    },
+    "manifest_version": 2,
+    "update_url": "http://clients2.google.com/service/update2/crx",
+    "version": "0.1",
+    "icons": {
+        "128": "icon.png"
+    }
+}
